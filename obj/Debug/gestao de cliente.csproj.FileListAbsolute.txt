@@ -1,0 +1,24 @@
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\bin\Debug\gestao de cliente.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\bin\Debug\gestao de cliente.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\bin\Debug\gestao de cliente.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao de cliente.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_cadastrar.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao de cliente.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao de cliente.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao de cliente.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao de cliente.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_pesquisa.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_entrar.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_dentro.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_dadosDeConta.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_transferencia.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_pesquisarCliente.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_controle.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_vazio.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_deposito.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_CConsultar.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_CTransfericia.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_CSaque.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\gestao de cliente\obj\Debug\gestao_de_cliente.frm_substituir.resources
